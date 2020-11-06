@@ -1,0 +1,1 @@
+This is me (LennyTheDude) recreating the Google Home page. Doing this will help me grasp the basics of HTML & CSS.
